@@ -77,7 +77,7 @@ header a {
 /*Sticky class*/
 .sticky {
     position: fixed;
-    top: 6%;
+    top: 40px;
     width: 100%
   }
 
